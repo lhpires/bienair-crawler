@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a22de56b-585d-441d-b4d8-756cf043060b" name="Default Changelist" comment="" />
+    <list default="true" id="a22de56b-585d-441d-b4d8-756cf043060b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bienair-categorias.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuscaCategoria.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -63,6 +68,7 @@
       <workItem from="1618629575970" duration="603000" />
       <workItem from="1618630771576" duration="56000" />
       <workItem from="1618631203502" duration="5673000" />
+      <workItem from="1618711979065" duration="733000" />
     </task>
     <servers />
   </component>
